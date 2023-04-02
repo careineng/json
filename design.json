@@ -4,19 +4,19 @@
     "designimage_id": 1,
     "design_id": 2,
     "image": "PNG",
-    "thumbnai": "petit PNG"
+    "thumbnail": "petit PNG"
 },
 {
     "designimage_id": 2,
     "design_id": 3,
     "image": "JPEG",
-    "thumbnai": "petit JPEG" 
+    "thumbnail": "petit JPEG" 
 },
 {
     "designimage_id": 3,
     "design_id": 4,
     "image": "GIF",
-    "thumbnai": "petit GIF"
+    "thumbnail": "petit GIF"
 }
 ]
 }
